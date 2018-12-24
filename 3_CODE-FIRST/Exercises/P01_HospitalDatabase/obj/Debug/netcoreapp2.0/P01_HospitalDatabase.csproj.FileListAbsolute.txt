@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb

@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Exercise\Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb

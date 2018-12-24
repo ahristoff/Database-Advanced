@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\bin\Debug\netcoreapp1.1\Lab.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\bin\Debug\netcoreapp1.1\Lab.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\bin\Debug\netcoreapp1.1\Lab.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\bin\Debug\netcoreapp1.1\Lab.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\bin\Debug\netcoreapp1.1\Lab.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\obj\Debug\netcoreapp1.1\Lab.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\obj\Debug\netcoreapp1.1\Lab.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\obj\Debug\netcoreapp1.1\Lab.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\Lab\obj\Debug\netcoreapp1.1\Lab.pdb

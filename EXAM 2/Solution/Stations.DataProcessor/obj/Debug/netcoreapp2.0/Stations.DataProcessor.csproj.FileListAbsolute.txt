@@ -1,0 +1,27 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Solution\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.pdb

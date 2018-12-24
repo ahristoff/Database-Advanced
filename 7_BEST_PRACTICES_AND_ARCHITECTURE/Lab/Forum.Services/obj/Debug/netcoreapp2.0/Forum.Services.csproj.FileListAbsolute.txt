@@ -1,0 +1,27 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Services.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Services.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Services.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Services.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Services\obj\Debug\netcoreapp2.0\Forum.Services.pdb

@@ -1,0 +1,18 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercise\ProductsShop\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.pdb

@@ -1,0 +1,31 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.pdb
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.deps.json
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.runtimeconfig.json
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.dll
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\bin\Debug\netcoreapp1.1\7.pdb
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.dll
+C:\Users\ALEN\Desktop\4_DataBase\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercise\DB Apps Introduction\7\obj\Debug\netcoreapp1.1\7.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\bin\Debug\netcoreapp1.1\7.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\bin\Debug\netcoreapp1.1\7.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\bin\Debug\netcoreapp1.1\7.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\bin\Debug\netcoreapp1.1\7.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\bin\Debug\netcoreapp1.1\7.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\obj\Debug\netcoreapp1.1\7.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\obj\Debug\netcoreapp1.1\7.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\obj\Debug\netcoreapp1.1\7.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\obj\Debug\netcoreapp1.1\7.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\obj\Debug\netcoreapp1.1\7.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\1_DB_APPS_INTRODUCTION\Exercises\7\obj\Debug\netcoreapp1.1\7.pdb

@@ -1,0 +1,24 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\bin\Debug\netcoreapp2.0\14.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\bin\Debug\netcoreapp2.0\14.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\bin\Debug\netcoreapp2.0\14.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\bin\Debug\netcoreapp2.0\14.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\bin\Debug\netcoreapp2.0\14.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\obj\Debug\netcoreapp2.0\14.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\obj\Debug\netcoreapp2.0\14.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\obj\Debug\netcoreapp2.0\14.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\obj\Debug\netcoreapp2.0\14.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Introduction to Entity Framework Core\14\obj\Debug\netcoreapp2.0\14.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\14.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\14.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\14.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\14.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\14.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\02.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\bin\Debug\netcoreapp2.0\02.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\2_INTRODUCTION_TO_ENTITYFRAMEWORK\Exercises\14\obj\Debug\netcoreapp2.0\14.pdb

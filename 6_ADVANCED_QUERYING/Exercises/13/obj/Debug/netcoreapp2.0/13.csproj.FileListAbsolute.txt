@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\13.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\13.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\13.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\13.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\13.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\6_ADVANCED_QUERYING\Exercise\13\obj\Debug\netcoreapp2.0\13.pdb

@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\JSON_1_Import_data.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\JSON_1_Import_data.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\JSON_1_Import_data.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\JSON_1_Import_data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\JSON_1_Import_data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\obj\Debug\netcoreapp2.0\JSON_1_Import_data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\DbProductsShop.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\DbProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\DbProductsShop.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_1_Import_data\bin\Debug\netcoreapp2.0\DbProductsShop.Models.pdb

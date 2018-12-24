@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\obj\Debug\netcoreapp2.0\XML_2.1_Products_In_Range.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\DbProductsShop.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\DbProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\DbProductsShop.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.1_Products_In_Range\bin\Debug\netcoreapp2.0\DbProductsShop.Models.pdb

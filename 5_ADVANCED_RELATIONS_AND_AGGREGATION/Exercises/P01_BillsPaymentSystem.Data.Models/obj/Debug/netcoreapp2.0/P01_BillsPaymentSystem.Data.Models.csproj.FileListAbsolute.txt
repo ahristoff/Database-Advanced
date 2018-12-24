@@ -1,0 +1,18 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\5_ADVANCED_RELATIONS_AND_AGGREGATION\Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb

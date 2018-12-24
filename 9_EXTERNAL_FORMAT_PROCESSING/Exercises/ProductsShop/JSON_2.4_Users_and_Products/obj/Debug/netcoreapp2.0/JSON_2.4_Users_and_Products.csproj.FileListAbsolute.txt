@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\obj\Debug\netcoreapp2.0\JSON_2.4_Users_and_Products.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\DbProductsShop.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\DbProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\DbProductsShop.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.4_Users_and_Products\bin\Debug\netcoreapp2.0\DbProductsShop.Models.pdb

@@ -1,0 +1,18 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\bin\Debug\netcoreapp2.0\Cars.Data.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\bin\Debug\netcoreapp2.0\Cars.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\bin\Debug\netcoreapp2.0\Cars.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\bin\Debug\netcoreapp2.0\Cars.Data.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\bin\Debug\netcoreapp2.0\Cars.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\bin\Debug\netcoreapp2.0\Cars.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.Data\obj\Debug\netcoreapp2.0\Cars.Data.pdb

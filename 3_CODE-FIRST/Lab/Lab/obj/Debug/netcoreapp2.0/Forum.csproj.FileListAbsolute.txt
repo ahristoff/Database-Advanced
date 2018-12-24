@@ -1,0 +1,33 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\3_CODE-FIRST\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\3_CODE-FIRST\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.pdb

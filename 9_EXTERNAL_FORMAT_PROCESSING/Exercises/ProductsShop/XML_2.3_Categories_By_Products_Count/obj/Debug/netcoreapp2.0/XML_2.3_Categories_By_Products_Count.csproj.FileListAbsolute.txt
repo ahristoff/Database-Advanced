@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\obj\Debug\netcoreapp2.0\XML_2.3_Categories_By_Products_Count.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\DbProductsShop.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\DbProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\DbProductsShop.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\XML_2.3_Categories_By_Products_Count\bin\Debug\netcoreapp2.0\DbProductsShop.Models.pdb

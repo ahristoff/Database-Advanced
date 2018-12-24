@@ -1,0 +1,52 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.Services.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Lab\obj\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Services.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Services.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Services.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\8_C# AUTO_MAPPING_OBJECTS\Lab\Lab\obj\Debug\netcoreapp2.0\Forum.App.pdb

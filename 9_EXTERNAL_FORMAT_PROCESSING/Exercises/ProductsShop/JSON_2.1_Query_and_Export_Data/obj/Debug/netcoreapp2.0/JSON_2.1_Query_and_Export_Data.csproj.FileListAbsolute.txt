@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\obj\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\obj\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\obj\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\obj\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\9_EXTERNAL_FORMAT_PROCESSING\Exercises\ProductsShop\JSON_2.1_Query_and_Export_Data\obj\Debug\netcoreapp2.0\JSON_2.1_Query_and_Export_Data.csproj.CopyComplete

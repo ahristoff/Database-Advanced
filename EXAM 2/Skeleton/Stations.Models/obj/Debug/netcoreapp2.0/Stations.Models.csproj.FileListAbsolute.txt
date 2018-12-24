@@ -1,0 +1,27 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Solution\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\EXAM 2\Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb

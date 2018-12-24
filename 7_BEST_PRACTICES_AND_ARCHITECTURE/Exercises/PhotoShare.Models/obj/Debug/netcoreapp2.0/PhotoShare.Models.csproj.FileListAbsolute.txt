@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Exercise\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb

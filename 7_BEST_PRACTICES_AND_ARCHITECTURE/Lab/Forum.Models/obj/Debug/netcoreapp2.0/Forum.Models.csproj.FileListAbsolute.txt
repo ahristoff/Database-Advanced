@@ -1,0 +1,18 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\CodeFirst\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\7_BEST_PRACTICES_AND_ARCHITECTURE\Lab\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb

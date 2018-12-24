@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\bin\Debug\netcoreapp2.0\TeamBuilder.Models.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\10_WORKSHOP\TeamBuilder\TeamBuilder.Models\obj\Debug\netcoreapp2.0\TeamBuilder.Models.pdb

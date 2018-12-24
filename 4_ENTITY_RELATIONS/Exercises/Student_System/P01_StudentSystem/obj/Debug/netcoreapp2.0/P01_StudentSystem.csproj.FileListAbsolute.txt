@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Student_System\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.pdb

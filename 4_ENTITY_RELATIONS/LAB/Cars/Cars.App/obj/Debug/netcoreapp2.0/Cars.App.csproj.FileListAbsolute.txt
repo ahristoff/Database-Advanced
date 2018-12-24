@@ -1,0 +1,27 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.App.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\bin\Debug\netcoreapp2.0\Cars.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\LAB\Cars\Cars.App\obj\Debug\netcoreapp2.0\Cars.App.pdb

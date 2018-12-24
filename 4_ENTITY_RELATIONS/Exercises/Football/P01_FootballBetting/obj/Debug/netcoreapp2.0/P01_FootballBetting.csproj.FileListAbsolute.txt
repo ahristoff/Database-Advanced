@@ -1,0 +1,41 @@
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.deps.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.runtimeconfig.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.Data.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.Data.pdb
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.dll
+C:\Users\ALEN\Desktop\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.deps.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.runtimeconfig.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.Data.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\bin\Debug\netcoreapp2.0\P01_FootballBetting.Data.pdb
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.csproj.CopyComplete
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.dll
+C:\Users\ALEN\Desktop\DB ADVANCE\mssql ADVANCED\4_ENTITY_RELATIONS\Exercises\Football\P01_FootballBetting\obj\Debug\netcoreapp2.0\P01_FootballBetting.pdb
